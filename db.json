@@ -24,6 +24,13 @@
     { "name": "安陵娜" }
     
   ],
+  "list2": [
+   
+    { "name": "R織" },
+    { "name": "闕仁恩" }
+   
+    
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
