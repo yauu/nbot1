@@ -59,3 +59,31 @@ BK
     "name": "typicode"
   }
 }
+
+
+--------------------------------
+{
+  "list": [
+    { "name": "【BOT放風去.....】"  },
+    { "name": "【BOT忘了回來工作請去DC找作者】" },
+    { "name": "【奉天澄運、BOT放風去】" }
+   ],
+  "listMale": [
+    { "name": "【BOT放風去.....】" },
+    { "name": "【BOT忘了回來工作請去DC找作者】" },
+    { "name": "【奉天澄運、BOT放風去】" }
+    ],
+  "BotResult": [
+    { "name": "資料庫維護中"  },
+    { "name": "NO Data" },
+     { "name": "放風中無法預測~" }
+    ],
+  "sausageCP": [
+    { "name": "【尚諦】"  },
+    { "name": "連四の【夏威夷披薩鳳梨加量】" },
+     { "name": "【這個位置要留給你歐】"  }
+    ],
+  "profile": {
+    "name": "typicode"
+  }
+}
